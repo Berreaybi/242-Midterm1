@@ -1,0 +1,9 @@
+ZEYNEP BERRE AYBİ
+
+Asciiname=122+101+121+110+101+112=667 ||| 98+101+114+114+101=528 =>  667!528
+Asciisurname=97+121+98+105=421
+Asciitotal=1616
+Timernumber=(Asciitotal%14)+1=7
+ARRNUMBER=65536-1=65535
+Duration=(Asciisurname%1500)*30=12630
+LEDPINNUMBER=(Asciitotal%4)+12=12
